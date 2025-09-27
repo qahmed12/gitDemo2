@@ -19,7 +19,8 @@ public class BrowserTest {
 	@Test
 	public void getData()
 	{
-		System.out.println("Hello Guys");
+		System.out.println("Hello Guys1");
+		System.out.println("Hello Guys2");
 		
 		WebDriverManager.chromedriver().setup();
         WebDriver driver =new ChromeDriver();
