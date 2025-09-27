@@ -21,8 +21,7 @@ public class BrowserTest {
 	{
 		System.out.println("Hello Guys1");
 		System.out.println("Hello Guys2");
-		System.out.println("Hello Guys3");
-		System.out.println("Hello Guys4");
+		
 		
 		WebDriverManager.chromedriver().setup();
         WebDriver driver =new ChromeDriver();
