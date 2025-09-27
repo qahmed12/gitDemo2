@@ -21,6 +21,7 @@ public class BrowserTest {
 	{
 		System.out.println("Hello Guys1");
 		System.out.println("Hello Guys2");
+			System.out.println("Hello Guys2 new bracm");
 		
 		
 		WebDriverManager.chromedriver().setup();
